@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasil</h1>
 <h3 align="center">A passionate frontend developer based in Berlin, Germany</h3>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working at **ASZ Digital**
 
 - 🌱 I’m currently learning **Node.js and MongoDB**
 
